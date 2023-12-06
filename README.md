@@ -203,7 +203,7 @@ https://www.figma.com/file/rMtqMxDFNhDIgJEFVMv8jX/Recipes?node-id=0%3A1
 
 #### Задача 3 (проектирование тестовой документации)
 
-![ТК Создание рецепта (копия)](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/671a9136-1092-483a-87d5-c9f3572829df)
+![ТК Создание рецепта (копия)-2](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/e3142324-0f67-47b4-b9d8-ec7b6fc5fba2)
 
 #### Задача 5 (выполнение тестов)
 
@@ -211,7 +211,7 @@ https://www.figma.com/file/rMtqMxDFNhDIgJEFVMv8jX/Recipes?node-id=0%3A1
 
 #### Задача 4 (проектирование тестовой документации)
 
-![Мои подписки, Создание рецепта, Редактирование рецепта, Страница пользователя](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/22082843-b776-4374-893b-094b932445f8)
+![Мои подписки, Создание рецепта, Редактирование рецепта, Страница пользователя-2](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/04773949-5748-4e56-ad45-d58f7071b703)
 
 #### Задача 5 (выполнение тестов)
 

@@ -111,7 +111,7 @@ https://www.figma.com/file/rMtqMxDFNhDIgJEFVMv8jX/Recipes?node-id=0%3A1
 - Кнопка добавления в список покупок или удаления из этого списка. Если рецепт не был добавлен в список покупок, то текст кнопки будет «+ Добавить в покупки». По клику на кнопку с таким текстом происходит добавление рецепта в список покупок, а кнопка меняет текст на « Рецепт добавлен». Если ✔ кликнуть на кнопку « Рецепт добавлен», то рецепт будет удалён из списка ✔ покупок, а текст кнопки сменится обратно на «+ Добавить в покупки».
 Кнопка подписки на автора рецепта или отписки от него. Если подписки на автора рецепта нет, то текст кнопки будет «Подписаться на автора». При клике на такую кнопку автор добавляется в подписки, а кнопка меняет текст на «Отписаться от автора». Если же кликнуть на кнопку «Отписаться от автора», то автор будет удалён из подписок, а кнопка сменит текст обратно на «Подписаться на автора».
 
-## Страница пользователя
+### Страница пользователя
 Авторизованный пользователь может попасть на страницу пользователя по клику на имя пользователя в карточке рецепта на главной странице, по клику на имя пользователя на странице рецепта или по клику на имя пользователя на странице подписок.  
 Также на страницу пользователя можно попасть по прямой ссылке — http://host/user/:id, где :id — идентификатор пользователя. Этот идентификатор можно посмотреть в адресной строке браузера или в ответе сервера. Неавторизованный пользователь при попытке перейти по прямой ссылке будет перенаправлен на страницу авторизации.  
 На странице пользователя отображаются карточки тех рецептов, которые создал этот пользователь.  
@@ -156,3 +156,38 @@ https://www.figma.com/file/rMtqMxDFNhDIgJEFVMv8jX/Recipes?node-id=0%3A1
 По клику на кнопку «Скачать список» формируется текстовый файл в формате .txt со списком всех необходимых ингредиентов для рецептов, добавленных в список покупок. Если в двух рецептах встречается один и тот же ингредиент, то в файле с покупками количество ингредиента должно быть просуммировано для всех рецептов, где он встречается.  
 
 </details>
+
+<details>
+<summary>Макеты к сервису "Продуктовый помощник" </summary>
+
+![Recipes_page-0001](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/6fd990f5-4fb2-4a49-a1f9-5fb8cd398fd4)
+
+![Recipes_page-0006](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/89c5e6ab-2a54-4e9a-9b63-5556582a3505)
+
+![Recipes_page-0008](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/0cd55aea-1fe9-49f2-aee0-99cda24c8a60)
+
+![Recipes_page-0012](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/c223abad-a3eb-4b3d-a6d9-8cba24571719)
+
+![Recipes_page-0002](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/c42f3352-cc46-49f0-8686-0305dbfd9eee)
+
+![Recipes_page-0009](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/6e5d943d-3013-47fa-874c-f33b653d1b02)
+
+![Recipes_page-0013](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/2da7d35a-f424-4cf4-a64c-92cc645d5f13)
+
+![Recipes_page-0015](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/bed95139-fc22-46da-897d-98633418ebc7)
+
+![Recipes_page-0003](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/80827bfb-657c-47f2-ac9b-a63fc1face36)
+
+![Recipes_page-0010](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/e7e7af01-f854-4f56-bc41-5472602a359a)
+
+![Recipes_page-0011](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/bb47079f-191a-4caa-87aa-336de0b1c285)
+
+![Recipes_page-0014](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/19c7af8b-43b4-400f-ac5a-db8a2ed0975f)
+
+![Recipes_page-0016](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/62556dd7-8d0b-4dc8-bf49-1823379144f4)
+
+![Recipes_page-0004](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/0e17ebf9-eccf-459d-a004-a286e1c6b644)
+
+![Recipes_page-0005](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/d03090cf-6525-4070-9ac9-367e53c78798)
+
+![Recipes_page-0007](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/8871a8a0-ba45-4de4-bb3e-d4b889880c32)

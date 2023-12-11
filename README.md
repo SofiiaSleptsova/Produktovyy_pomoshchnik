@@ -209,13 +209,13 @@ https://www.figma.com/file/rMtqMxDFNhDIgJEFVMv8jX/Recipes?node-id=0%3A1
 
 ![КЭ,ГЗ Создание рецепта (копия)](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/b43c5792-e6cf-4b32-ac61-6e3d301a980e)
 
-#### Задача 3 (проектирование тестовой документации)
+### Задача 3 (проектирование тестовой документации)
 
 ![ТК Создание рецепта (копия)-2](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/e3142324-0f67-47b4-b9d8-ec7b6fc5fba2)
 
-#### Задача 5 (выполнение тестов)
+### Задача 5 (выполнение тестов)
 
-[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
+[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1ktObvWUD9GjyxrO3gn9O3fhaj2FIxpD9MHEd7M1vzsQ/edit?usp=sharing)
 
 <details>
 <summary> Баг-репорты </summary>
@@ -512,14 +512,14 @@ https://www.figma.com/file/rMtqMxDFNhDIgJEFVMv8jX/Recipes?node-id=0%3A1
 </details>
 </details>
 
-#### Задача 4 (проектирование тестовой документации)
+### Задача 4 (проектирование тестовой документации)
 
 ![Мои подписки, Создание рецепта, Редактирование рецепта, Страница пользователя-2](https://github.com/SofiiaSleptsova/Produktovyy_pomoshchnik/assets/147629405/72e656bc-6ee6-4716-8c43-fa4367a832bd)
 
 
-#### Задача 5 (выполнение тестов)
+### Задача 5 (выполнение тестов)
 
-[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
+[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1ktObvWUD9GjyxrO3gn9O3fhaj2FIxpD9MHEd7M1vzsQ/edit?usp=sharing)
 
 <details>
 <summary> Баг-репорты </summary>
